@@ -1,5 +1,6 @@
 # CodingTestPractice  
 Practice Coding Test with Beakjoon, programmers, etc.  
+코딩 언어: C언어, Java  
   
 ## 알고리즘 공부 / 코딩테스트 대비  
 ### 백준(Beakjoon)  
