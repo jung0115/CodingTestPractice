@@ -16,6 +16,6 @@ while문: 10952(C), 10951(C), 1110(C)
 기본 수학2: 1978(java), 2581(java), 11653(java), 1929(java), 4948(java), 9020(java), 1085(java), 3009(java), 4153(java), 3053(java), 1002(java)  
 재귀: 10872(java), 10870(java), 2447(java), 11729(java)  
 브루트 포스: 2798(java), 2231(java), 7568(java), 1019(java), 1436(java)  
-정렬: 2750(java)  
+정렬: 2750(java), 2751(java), 10989(java)  
   
 **코딩가딩가딩: https://coding-ga-ding.tistory.com/**
