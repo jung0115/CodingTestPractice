@@ -1,4 +1,4 @@
-//백준 > 단계별로 풀어보기 > 브루트 포스 > 좌표 정렬하기 2(11651)
+//백준 > 단계별로 풀어보기 > 정렬 > 좌표 정렬하기 2(11651)
 package Java.Beakjoon.단계별로_풀어보기.정렬;
 
 import java.io.BufferedReader;

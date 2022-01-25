@@ -1,4 +1,4 @@
-//백준 > 단계별로 풀어보기 > 브루트 포스 > 수 정렬하기(2750)
+//백준 > 단계별로 풀어보기 > 정렬 > 수 정렬하기(2750)
 package Java.Beakjoon.단계별로_풀어보기.정렬;
 
 import java.util.Scanner;

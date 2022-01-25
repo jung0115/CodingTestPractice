@@ -1,4 +1,4 @@
-//백준 > 단계별로 풀어보기 > 브루트 포스 > 단어 정렬(1181)
+//백준 > 단계별로 풀어보기 > 정렬 > 단어 정렬(1181)
 package Java.Beakjoon.단계별로_풀어보기.정렬;
 
 import java.io.BufferedReader;

@@ -1,4 +1,4 @@
-//백준 > 단계별로 풀어보기 > 브루트 포스 > 소트인사이드(1427)
+//백준 > 단계별로 풀어보기 > 정렬 > 소트인사이드(1427)
 package Java.Beakjoon.단계별로_풀어보기.정렬;
 
 import java.io.BufferedReader;
