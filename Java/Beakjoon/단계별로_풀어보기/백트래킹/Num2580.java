@@ -1,6 +1,4 @@
 //백준 > 단계별로 풀어보기 > 백트래킹 > 스도쿠(2580)
-package Java.Beakjoon.단계별로_풀어보기.백트래킹;
-
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.io.IOException;
