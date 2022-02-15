@@ -18,6 +18,6 @@ while문: 10952(C), 10951(C), 1110(C)
 브루트 포스: 2798(java), 2231(java), 7568(java), 1019(java), 1436(java)  
 정렬: 2750(java), 2751(java), 10989(java), 2108(java), 1427(java), 11650(java), 11651(java), 1181(java), 10814(java), 18870(java)  
 백트래킹: 15649(java), 15650(java), 15651(java), 15652(java), 9663(java), 2580(java), 14888(java), 14889(java)  
-동적 계획법1: 1003(java)  
+동적 계획법1: 1003(java), 9184(java)  
   
 **코딩가딩가딩: https://coding-ga-ding.tistory.com/**
