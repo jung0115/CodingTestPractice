@@ -8,5 +8,7 @@ public class Num10926 {
         StringBuilder printSet = new StringBuilder();
         printSet.append(id).append("??!");
         System.out.print(printSet);
+
+        scan.close();
     }
 }
