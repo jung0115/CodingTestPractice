@@ -20,4 +20,7 @@ while문: 10952(C), 10951(C), 1110(C)
 백트래킹: 15649(java), 15650(java), 15651(java), 15652(java), 9663(java), 2580(java), 14888(java), 14889(java)  
 동적 계획법1: 1003(java), 9184(java)  
   
+**<아무거나 풀기>**  
+2606(java)  
+  
 **코딩가딩가딩: https://coding-ga-ding.tistory.com/**
