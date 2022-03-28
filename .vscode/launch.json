@@ -6,6 +6,7 @@
     "configurations": [
         {
             "type": "java",
+<<<<<<< HEAD
             "name": "Launch Num1904",
             "request": "launch",
             "mainClass": "Num1904",
@@ -17,6 +18,12 @@
             "request": "launch",
             "mainClass": "Num9461",
             "projectName": "CodingTestPractice_29548ba8"
+=======
+            "name": "Launch Num1932",
+            "request": "launch",
+            "mainClass": "Num1932",
+            "projectName": "CodingTestPractice_900d51c9"
+>>>>>>> 6c7c51375331d2c488f6fb2767ade9a9e00c2ac7
         },
         {
             "type": "java",
