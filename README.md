@@ -21,6 +21,6 @@ while문: 10952(C), 10951(C), 1110(C)
 동적 계획법1: 1003(java), 9184(java)  
   
 **<아무거나 풀기>**  
-2606(java), 7576(java), 7576(java), 2576(java), 1463(java), 1932(java), 9462(java), 1463(java)  
+2606(java), 7576(java), 7576(java), 2576(java), 1463(java), 1932(java), 9462(java), 1463(java), 1149(java)  
   
 **코딩가딩가딩: https://coding-ga-ding.tistory.com/**
