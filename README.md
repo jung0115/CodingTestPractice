@@ -23,4 +23,8 @@ while문: 10952(C), 10951(C), 1110(C)
 **<아무거나 풀기>**  
 2606(java), 7576(java), 7576(java), 2576(java), 1463(java), 1932(java), 9462(java), 1463(java), 1149(java), 10844(java), 2156(java)  
   
+## SCPC
+**7회 예선(2021)**
+친구들(java) : 30/80  
+  
 **코딩가딩가딩: https://coding-ga-ding.tistory.com/**
