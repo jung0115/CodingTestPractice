@@ -1,9 +1,16 @@
-# CodingTestPractice  
+# ✅ Coding Test Practice  
 Practice Coding Test with Baekjoon, programmers, etc.  
 Language: C, Java, JavaScript  
+
+<div align="center">
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjung0115%2FCodingTestPractice&count_bg=%23B7BCDB&title_bg=%233B50A6&icon=java.svg&icon_color=%23E7E7E7&title=Coding+Test&edge_flat=false"/>
+  </a>
+</div>
+
+---
   
-## 알고리즘 공부 / 코딩테스트 대비  
-### 백준(Baekjoon)  
+## 백준(Baekjoon)  
 **<단계별로 풀어보기>**  
 입출력과 사칙연산: 2557(C), 10718(C), 10171(C), 10172(C), 1000(C), 1001(C), 10998(C), 1008(C), 10869(C), 10430(C), 2588(C), 10926(java), 18108(java)  
 조건문: 1330(C), 9498(C), 2753(C), 14681(C), 2884(C), 2480(JavaScript)  
