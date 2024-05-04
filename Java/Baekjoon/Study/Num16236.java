@@ -40,9 +40,9 @@ public class Num16236 {
     while(true) {
       // 우선순위 큐를 이용헤서 먹을 물고기 순서를 결정
       PriorityQueue<Position> queue = new PriorityQueue<Position>((o1, o2) ->
-        o1.time != o2.time ? Integer.compare(o1.time, o2.time) // 시간이 다르면 가까운순
-          : (o1.row != o2.row ? Integer.compare(o1.row, o2.row)        // 시간 같으면 더 위에 있는순
-            : Integer.compare(o1.col, o2.col))                     // 시간, 높이가 같으면 더 왼쪽에 있는순
+        o1.time != o2.time ? Integer.compare(o1.time, o2.time)  // 시간이 다르면 가까운순
+          : (o1.row != o2.row ? Integer.compare(o1.row, o2.row) // 시간 같으면 더 위에 있는순
+            : Integer.compare(o1.col, o2.col))                  // 시간, 높이가 같으면 더 왼쪽에 있는순
       );
 
       queue.add(new Position(pos.row, pos.col, 0)); // 아기상어의 현재 위치
