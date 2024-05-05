@@ -1,7 +1,7 @@
 // 백준 - 감시(15683)
-import java.io.BufferedReader;
-import java.io.InputStreamReader;
-import java.util.StringTokenizer;
+import java.io.BufferedReader
+import java.io.InputStreamReader
+import java.util.StringTokenizer
 
 // cctv 감시 방향 - 위, 오른쪽, 아래, 왼쪽
 val dir = arrayOf(arrayOf(-1, 0), arrayOf(0, 1), arrayOf(1, 0), arrayOf(0, -1))
