@@ -5,9 +5,9 @@ import java.io.InputStreamReader
 fun main() {
   var br = BufferedReader(InputStreamReader(System.`in`))
 
-  // 한조각 알약 i개, 반조각 알약 j개가 남았을 때
   var dp: Array<Array<Double>> = Array(31, {Array(31, {0.0})})
-
+  
+  // 한조각 알약 i개, 반조각 알약 j개가 남았을 때
   // 반조각짜리만 남아있는 경우 = 반알짜리만 뽑게 되므로 경우의 수 1개
   for(i: Int in 1..30) {
     dp[0][i] = 1.0
