@@ -20,8 +20,8 @@ fun main() {
     val A = st.nextToken().toInt()
     val B = st.nextToken().toInt()
 
-    graph[A].add(B)
-    edgeCnt[B]++ // 진입차수 기록
+    graph[A].add(B) // graph[A][B]
+    edgeCnt[B]++    // 진입차수 기록
   }
 
   var queue = LinkedList<Int>() as Queue<Int>
