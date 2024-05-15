@@ -22,9 +22,9 @@ fun main() {
   house.sort()
 
   var low = 1 // 최소거리의 최소
-  var high = house[N-1] - house[0] // 최소거리의 최대
+  var high = house[N-1] - house[0] + 1 // 최소거리의 최대
 
-  var answer = 0
+  var answer = 1
 
   while(low < high) {
     val mid = (low + high) / 2
