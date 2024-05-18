@@ -37,14 +37,15 @@ fun main() {
       val rowSub = map[i][j-1] - map[i][j]
       val colSub = map[j-1][i] - map[j][i]
 
-      // 행 체크 - 1이상 차이
+      // 행 체크 - 1이상 차이 = 경사로도 못 놓음
       if(rowSub > 1 || rowSub < -1) row = false
       // 행 체크 - 앞이 더 큼
       else if(row && rowSub == 1) {
-        // 경사로 놓을 수 없음
+        // 이미 경사로가 놓아져있어서 경사로 놓을 수 없음
         if(rowSelected[j]) {
           row = false
         }
+        // 경사로 놓기 시도
         else {
           var cnt = 1
           rowSelected[j] = true
@@ -61,10 +62,11 @@ fun main() {
       }
       // 행 체크 - 뒤가 더 큼
       else if(row && rowSub == -1) {
-        // 경사로 놓을 수 없음
+        // 이미 경사로가 놓아져있어서 경사로 놓을 수 없음
         if(rowSelected[j - 1]) {
           row = false
         }
+        // 경사로 놓기 시도
         else {
           var cnt = 1
           rowSelected[j - 1] = true
@@ -80,14 +82,15 @@ fun main() {
         }
       }
 
-      // 열 체크 - 1 이상 차이
+      // 열 체크 - 1 이상 차이 = 경사로도 못 놓음
       if(colSub > 1 || colSub < -1) col = false
       // 열 체크 - 위가 더 큼
       else if(col && colSub == 1) {
-        // 경사로 놓을 수 없음
+        // 이미 경사로가 놓아져있어서 경사로 놓을 수 없음
         if(colSelected[j]) {
           col = false
         }
+        // 경사로 놓기 시도
         else {
           var cnt = 1
           colSelected[j] = true
@@ -104,10 +107,11 @@ fun main() {
       }
       // 열 체크 - 위가 더 큼
       else if(col && colSub == -1) {
-        // 경사로 놓을 수 없음
+        // 이미 경사로가 놓아져있어서 경사로 놓을 수 없음
         if(colSelected[j - 1]) {
           col = false
         }
+        // 경사로 놓기 시도
         else {
           var cnt = 1
           colSelected[j - 1] = true
@@ -123,13 +127,16 @@ fun main() {
         }
       }
 
+      // 행, 열 둘다 못 지나가면 중지
       if(!row && !col) break
     }
 
+    // 행 지나갈 수 있음
     if(row) {
       answer++
       //println("row " + i.toString())
     }
+    // 열 지나갈 수 있음
     if(col) {
       answer++
       //println("col " + i.toString())

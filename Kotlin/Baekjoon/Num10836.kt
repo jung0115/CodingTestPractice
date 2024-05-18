@@ -19,6 +19,7 @@ fun main() {
     // 0은 더해도 의미 없으므로 버리기
     var grow = st.nextToken().toInt() 
     var idx = grow
+    
     // 1, 2 누적
     for(j: Int in 1..2) {
       grow = st.nextToken().toInt()
