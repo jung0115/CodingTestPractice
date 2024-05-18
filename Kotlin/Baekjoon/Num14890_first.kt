@@ -24,7 +24,6 @@ fun main() {
   var answer = 0
 
   for(i: Int in 0..N-1) {
-    // 지나갈 수 있는 길인지 체크
     var row = true
     var col = true
 
@@ -33,14 +32,10 @@ fun main() {
     val colSelected = Array(N, {false})
 
     for(j: Int in 1..N-1) {
-      // 앞과의 차이
-      val rowSub = map[i][j-1] - map[i][j]
-      val colSub = map[j-1][i] - map[j][i]
-
-      // 행 체크 - 1이상 차이
-      if(rowSub > 1 || rowSub < -1) row = false
       // 행 체크 - 앞이 더 큼
-      else if(row && rowSub == 1) {
+      if(row && map[i][j] < map[i][j-1]) {
+        // 1 이상 차이
+        if(map[i][j-1] - map[i][j] > 1) row = false
         // 경사로 놓을 수 없음
         if(rowSelected[j]) {
           row = false
@@ -60,7 +55,9 @@ fun main() {
         }
       }
       // 행 체크 - 뒤가 더 큼
-      else if(row && rowSub == -1) {
+      else if(row && map[i][j] > map[i][j-1]) {
+        // 1 이상 차이
+        if(map[i][j] - map[i][j-1] > 1) row = false
         // 경사로 놓을 수 없음
         if(rowSelected[j - 1]) {
           row = false
@@ -80,12 +77,12 @@ fun main() {
         }
       }
 
-      // 열 체크 - 1 이상 차이
-      if(colSub > 1 || colSub < -1) col = false
       // 열 체크 - 위가 더 큼
-      else if(col && colSub == 1) {
+      if(col && map[j][i] < map[j-1][i]) {
+        // 1 이상 차이
+        if(map[j-1][i] - map[j][i] > 1) col = false
         // 경사로 놓을 수 없음
-        if(colSelected[j]) {
+        else if(colSelected[j]) {
           col = false
         }
         else {
@@ -103,9 +100,11 @@ fun main() {
         }
       }
       // 열 체크 - 위가 더 큼
-      else if(col && colSub == -1) {
+      else if(col && map[j][i] > map[j-1][i]) {
+        // 1 이상 차이
+        if(map[j][i] - map[j-1][i] > 1) col = false
         // 경사로 놓을 수 없음
-        if(colSelected[j - 1]) {
+        else if(colSelected[j - 1]) {
           col = false
         }
         else {
