@@ -10,7 +10,7 @@ class Solution {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     StringBuilder printSet = new StringBuilder();
         
-        // 테스트 케이스 10개
+    // 테스트 케이스 10개
 		for(int test_case = 1; test_case <= 10; test_case++) {
 			int num = Integer.parseInt(br.readLine());
             
@@ -20,7 +20,7 @@ class Solution {
         StringTokenizer st = new StringTokenizer(br.readLine());
         for(int j = 0; j < 100; j++) {
           map[i][j] = Integer.parseInt(st.nextToken());
-          if(map[i][j] == 2) x= j;
+          if(map[i][j] == 2) x = j;
         }
       }
             
