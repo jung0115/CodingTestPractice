@@ -1,5 +1,5 @@
 # ✅ Coding Test Practice  
-Practice Coding Test with Baekjoon, programmers, LeetCode, etc.  
+Practice Coding Test with Baekjoon, programmers, LeetCode, SAMSUNG SW Expert Academy, etc.  
 Language: C, Java, JavaScript, Kotlin  
 
 <div align="center">
@@ -40,20 +40,23 @@ while문: 10952(C), 10951(C), 1110(C)
 
 ---
   
-## 프로그래머스 Java
+## 프로그래머스 / Java
 프로세스(Lv.2), 소수 찾기(Lv.2), 뒤에 있는 큰 수 찾기(Lv.2), 폰켓몬(Lv.1), 숫자 변환하기(Lv.2), 베스트앨범(Lv.2), 올바른 괄호(Lv.2), 더 맵게(Lv.2), 가장 큰 수(Lv.2), H-Index(Lv.2), 카펫(Lv.2), 피로도(Lv.2), 전력망을 둘로 나누기(Lv.2), 모음 사전(Lv.2), 큰 수 만들기(Lv.2), 타겟 넘버(Lv.2), 이진 변환 반복하기(Lv.2), 귤 고르기(Lv.2), 호텔 대실(Lv.2)  
   
-## 프로그래머스 JavaScript
+## 프로그래머스 / JavaScript
 괄호 회전하기(Lv.2)  
 
-## 프로그래머스 SQL
+## 프로그래머스 / SQL
 - SELECT: 조건에 부합하는 중고거래 댓글 조회하기(Lv.1), 조건에 맞는 도서 리스트 출력하기(Lv.1), 평균 일일 대여 요금 구하기(Lv.1), 조건에 맞는 회원수 구하기(Lv.1)
 - IS NULL: ROOT 아이템 구하기(Lv.2)
 
 ---
 
-## 백준(Baekjoon) Kotlin
+## 백준(Baekjoon) / Kotlin
 감시(15683), 신기한 소수(2023), 소문난 칠공주(1941), 계란으로 계란치기(16987), 욕심쟁이 판다(1937), 알약(4811), 불(5427), 테트로미노(14500), 하늘에서 별똥별이 빗발친다(14658), 줄 세우기(2252), 물병(1052), 연구소 3(17142), 다이어트(1484), 자두나무(2240), 내려가기(2096), 공유기 설치(2110), 여왕벌(10836), 경사로(14890), 도도의 음식 준비(22953), 점수따먹기(1749), [이모티콘(14226)](https://www.acmicpc.net/problem/14226), [비즈 공예(1301)](https://www.acmicpc.net/problem/1301), [공격(1430)](https://www.acmicpc.net/problem/1430), [Contact(1013)](https://www.acmicpc.net/problem/1013), [도서관(1461)](https://www.acmicpc.net/problem/1461), [컨베이어 벨트 위의 로봇(20055)](https://www.acmicpc.net/problem/20055), [미세먼지 안녕!(17144)](https://www.acmicpc.net/problem/17144), [사다리 조작(15684)](https://www.acmicpc.net/problem/15684)  
   
-## LeetCode Kotlin
+## LeetCode / Kotlin
 [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/), [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/), [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/), [Find Valid Matrix Given Row and Column Sums](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums), [Number of Ways to Split a String](https://leetcode.com/problems/number-of-ways-to-split-a-string/description/), [1079. Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/description/), [1288. Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/description/), [Maximum Number of Groups Entering a Competition](https://leetcode.com/problems/maximum-number-of-groups-entering-a-competition/description/)  
+
+## SAMSUNG SW Expert Academy / Java
+[보급로](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=4&contestProbId=AV15QRX6APsCFAYD&categoryId=AV15QRX6APsCFAYD&categoryType=CODE&problemTitle=&orderBy=INQUERY_COUNT&selectCodeLang=ALL&select-1=4&pageSize=10&pageIndex=1#), [Ladder1](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=4&contestProbId=AV14ABYKADACFAYh&categoryId=AV14ABYKADACFAYh&categoryType=CODE&problemTitle=&orderBy=INQUERY_COUNT&selectCodeLang=ALL&select-1=4&pageSize=10&pageIndex=1), [길찾기](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=4&contestProbId=AV14geLqABQCFAYD&categoryId=AV14geLqABQCFAYD&categoryType=CODE&problemTitle=&orderBy=INQUERY_COUNT&selectCodeLang=ALL&select-1=4&pageSize=10&pageIndex=1)  
