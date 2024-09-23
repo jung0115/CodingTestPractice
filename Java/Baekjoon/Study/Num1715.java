@@ -3,7 +3,6 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.io.IOException;
 import java.util.PriorityQueue;
-import java.util.Collections;
 
 public class Num1715 {
   public static void main(String[] args) throws IOException {
