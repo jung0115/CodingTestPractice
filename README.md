@@ -16,7 +16,7 @@ Language: C, Java, JavaScript, Kotlin
 
 ***최신순**
 | 풀이 날짜 | 문제 | 난이도 | 문제 출처 | 언어 |
-|:---:|:---:|:---:|:---:|:---:|
+|:---:|:---|:---:|:---:|:---:|
 | 2024.10.14 | [과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962) | Lv.2 | 프로그래머스 | Kotlin |
 | 2024.09.30 | [카드 합체 놀이(15903)](https://www.acmicpc.net/problem/15903) | 실버1 | 백준 | Java |
 | 2024.09.30 | [오타(5875)](https://www.acmicpc.net/problem/5875) | 골드2 | 백준 | Java |
@@ -31,21 +31,21 @@ Language: C, Java, JavaScript, Kotlin
 | 2024.07.09 | [1210. Ladder1](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14ABYKADACFAYh) | D4 | SWEA | Java |
 | 2024.07.09 | [1249. 보급로](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15QRX6APsCFAYD) | D4 | SWEA | Java |
 | 2024.07.05 | [사다리 조작(15684)](https://www.acmicpc.net/problem/15684) | 골드3 | 백준 | Kotlin |
-| 2024.07.05 | [2358. Maximum Number of Groups Entering a Competition](https://leetcode.com/problems/maximum-number-of-groups-entering-a-competition) | Medium | LeetCode | Kotlin |
+| 2024.07.05 | [Maximum Number of Groups\nEntering a Competition](https://leetcode.com/problems/maximum-number-of-groups-entering-a-competition) | Medium | LeetCode | Kotlin |
 | 2024.07.03 | [미세먼지 안녕!(17144)](https://www.acmicpc.net/problem/17144) | 골드4 | 백준 | Kotlin |
-| 2024.07.03 | [1288. Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals) | Medium | LeetCode | Kotlin |
+| 2024.07.03 | [Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals) | Medium | LeetCode | Kotlin |
 | 2024.07.02 | [컨베이어 벨트 위의 로봇(20055)](https://www.acmicpc.net/problem/20055) | 골드5 | 백준 | Kotlin |
-| 2024.07.02 | [1079. Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities) | Medium | LeetCode | Kotlin |
+| 2024.07.02 | [Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities) | Medium | LeetCode | Kotlin |
 | 2024.07.01 | [도서관(1461)](https://www.acmicpc.net/problem/1461) | 골드4 | 백준 | Kotlin |
 | 2024.07.01 | [Number of Ways to Split a String](https://leetcode.com/problems/number-of-ways-to-split-a-string) | Medium | LeetCode | Kotlin |
 | 2024.06.28 | [Contact(1013)](https://www.acmicpc.net/problem/1013) | 골드5 | 백준 | Kotlin |
-| 2024.06.28 | [1605. Find Valid Matrix Given Row and Column Sums](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums) | Medium | LeetCode | Kotlin |
+| 2024.06.28 | [Find Valid Matrix Given\nRow and Column Sums](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums) | Medium | LeetCode | Kotlin |
 | 2024.06.27 | [공격(1430)](https://www.acmicpc.net/problem/1430) | 골드4 | 백준 | Kotlin |
-| 2024.06.27 | [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | Medium | LeetCode | Kotlin |
+| 2024.06.27 | [Find First and Last Position\nof Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | Medium | LeetCode | Kotlin |
 | 2024.06.26 | [비즈 공예(1301)](https://www.acmicpc.net/problem/1301) | 골드3 | 백준 | Kotlin |
-| 2024.06.26 | [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) | Medium | LeetCode | Kotlin |
+| 2024.06.26 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) | Medium | LeetCode | Kotlin |
 | 2024.06.24 | [이모티콘(14226)](https://www.acmicpc.net/problem/14226) | 골드4 | 백준 | Kotlin |
-| 2024.06.24 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water) | Medium | LeetCode | Kotlin |
+| 2024.06.24 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | Medium | LeetCode | Kotlin |
 | 2024.07.11 | [ROOT 아이템 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/273710) | Lv.2 | 프로그래머스 | SQL |
 | 2024.05.19 | [점수따먹기(1749)](https://www.acmicpc.net/problem/1749) | 골드4 | 백준 |Kotlin |
 | 2024.05.19 | [도도의 음식 준비(22953)](https://www.acmicpc.net/problem/22953) | 골드4 | 백준 |Kotlin |
