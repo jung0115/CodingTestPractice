@@ -31,7 +31,7 @@ Language: C, Java, JavaScript, Kotlin
 | 2024.07.09 | [1210. Ladder1](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14ABYKADACFAYh) | D4 | SWEA | Java |
 | 2024.07.09 | [1249. 보급로](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15QRX6APsCFAYD) | D4 | SWEA | Java |
 | 2024.07.05 | [사다리 조작(15684)](https://www.acmicpc.net/problem/15684) | 골드3 | 백준 | Kotlin |
-| 2024.07.05 | [Maximum Number of Groups\nEntering a Competition](https://leetcode.com/problems/maximum-number-of-groups-entering-a-competition) | Medium | LeetCode | Kotlin |
+| 2024.07.05 | [Maximum Number of Groups<br/>Entering a Competition](https://leetcode.com/problems/maximum-number-of-groups-entering-a-competition) | Medium | LeetCode | Kotlin |
 | 2024.07.03 | [미세먼지 안녕!(17144)](https://www.acmicpc.net/problem/17144) | 골드4 | 백준 | Kotlin |
 | 2024.07.03 | [Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals) | Medium | LeetCode | Kotlin |
 | 2024.07.02 | [컨베이어 벨트 위의 로봇(20055)](https://www.acmicpc.net/problem/20055) | 골드5 | 백준 | Kotlin |
@@ -39,9 +39,9 @@ Language: C, Java, JavaScript, Kotlin
 | 2024.07.01 | [도서관(1461)](https://www.acmicpc.net/problem/1461) | 골드4 | 백준 | Kotlin |
 | 2024.07.01 | [Number of Ways to Split a String](https://leetcode.com/problems/number-of-ways-to-split-a-string) | Medium | LeetCode | Kotlin |
 | 2024.06.28 | [Contact(1013)](https://www.acmicpc.net/problem/1013) | 골드5 | 백준 | Kotlin |
-| 2024.06.28 | [Find Valid Matrix Given\nRow and Column Sums](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums) | Medium | LeetCode | Kotlin |
+| 2024.06.28 | [Find Valid Matrix Given<br/>Row and Column Sums](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums) | Medium | LeetCode | Kotlin |
 | 2024.06.27 | [공격(1430)](https://www.acmicpc.net/problem/1430) | 골드4 | 백준 | Kotlin |
-| 2024.06.27 | [Find First and Last Position\nof Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | Medium | LeetCode | Kotlin |
+| 2024.06.27 | [Find First and Last Position<br/>of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | Medium | LeetCode | Kotlin |
 | 2024.06.26 | [비즈 공예(1301)](https://www.acmicpc.net/problem/1301) | 골드3 | 백준 | Kotlin |
 | 2024.06.26 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) | Medium | LeetCode | Kotlin |
 | 2024.06.24 | [이모티콘(14226)](https://www.acmicpc.net/problem/14226) | 골드4 | 백준 | Kotlin |
