@@ -17,6 +17,7 @@ Language: C, Java, JavaScript, Kotlin
 ***최신순**
 | 풀이 날짜 | 문제 | 난이도 | 문제 출처 | 언어 |
 |:---:|:---|:---:|:---:|:---:|
+| 2024.10.15 | [조건에 맞는 아이템들의 가격의 총합 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/273709) | Lv.2 | 프로그래머스 | SQL |
 | 2024.10.14 | [과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962) | Lv.2 | 프로그래머스 | Kotlin |
 | 2024.09.30 | [카드 합체 놀이(15903)](https://www.acmicpc.net/problem/15903) | 실버1 | 백준 | Java |
 | 2024.09.30 | [오타(5875)](https://www.acmicpc.net/problem/5875) | 골드2 | 백준 | Java |
