@@ -17,6 +17,7 @@ Language: C, Java, JavaScript, Kotlin
 ***최신순**
 | 풀이 날짜 | 문제 | 난이도 | 문제 출처 | 언어 |
 |:---:|:---|:---:|:---:|:---:|
+| 2024.10.18 | [단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163) | Lv.3 | 프로그래머스 | Kotlin |
 | 2024.10.18 | [연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870) | Lv.2 | 프로그래머스 | Kotlin |
 | 2024.10.16 | [세 개의 소수 문제(11502)](https://www.acmicpc.net/problem/11502) | 실버4 | 백준 | Kotlin |
 | 2024.10.15 | [연도별 대장균 크기의 편차 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/299310) | Lv.2 | 프로그래머스 | SQL |
