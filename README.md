@@ -17,6 +17,7 @@ Language: C, Java, JavaScript, Kotlin
 ***최신순**
 | 풀이 날짜 | 문제 | 난이도 | 문제 출처 | 언어 |
 |:---:|:---|:---:|:---:|:---:|
+| 2024.10.31 | [문자열 폭발(9935)](https://www.acmicpc.net/problem/9935) | 골드4 | 백준 | Kotlin |
 | 2024.10.23 | [마지막 문제(28110)](https://www.acmicpc.net/problem/28110) | 실버4 | 백준 | Kotlin |
 | 2024.10.18 | [단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163) | Lv.3 | 프로그래머스 | Kotlin |
 | 2024.10.18 | [연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870) | Lv.2 | 프로그래머스 | Kotlin |
