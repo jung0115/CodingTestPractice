@@ -17,6 +17,8 @@ Language: C, Java, JavaScript, Kotlin
 ***최신순**
 | 풀이 날짜 | 문제 | 난이도 | 문제 출처 | 언어 |
 |:---:|:---|:---:|:---:|:---:|
+| 2024.11.01 | [특정 형질을 가지는 대장균 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/301646) | Lv.1 | 프로그래머스 | SQL |
+| 2024.11.01 | [부모의 형질을 모두 가지는 대장균 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/301647) | Lv.2 | 프로그래머스 | SQL |
 | 2024.10.31 | [디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627) | Lv.2 | 프로그래머스 | Kotlin |
 | 2024.10.31 | [문자열 폭발(9935)](https://www.acmicpc.net/problem/9935) | 골드4 | 백준 | Kotlin |
 | 2024.10.23 | [마지막 문제(28110)](https://www.acmicpc.net/problem/28110) | 실버4 | 백준 | Kotlin |
