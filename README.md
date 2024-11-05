@@ -17,6 +17,7 @@ Language: C, Java, JavaScript, Kotlin
 ***최신순**
 | 풀이 날짜 | 문제 | 난이도 | 문제 출처 | 언어 |
 |:---:|:---|:---:|:---:|:---:|
+| 2024.11.05 | [랜선 자르기(1654)](https://www.acmicpc.net/problem/1654) | 실버2 | 백준 | Python |
 | 2024.11.01 | [FrontEnd 개발자 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/276035) | Lv.4 | 프로그래머스 | SQL |
 | 2024.11.01 | [언어별 개발자 분류하기](https://school.programmers.co.kr/learn/courses/30/lessons/276036) | Lv.4 | 프로그래머스 | SQL |
 | 2024.11.01 | [특정 형질을 가지는 대장균 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/301646) | Lv.1 | 프로그래머스 | SQL |
